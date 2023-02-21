@@ -30,7 +30,7 @@ docker-compose up --build -d
 
 You can check how the bot works here:
 
-
+https://user-images.githubusercontent.com/29598954/220421332-545419de-bd2e-4fb4-9805-50ee77f184c2.MP4
 
 ## License
 
