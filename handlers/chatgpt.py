@@ -41,7 +41,7 @@ async def handle_response(update: Update, context: ContextTypes.DEFAULT_TYPE) ->
                         reply_markup=ReplyKeyboardRemove(),
                     )
             await update.message.reply_text(text, reply_markup=ReplyKeyboardRemove())
-    return PROMPT
+    return ConversationHandler.END
 
 
 conv_handler = ConversationHandler(
