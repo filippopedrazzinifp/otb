@@ -1,1 +1,2 @@
-# otb
+# OTB - OpenAI Telegram Bot
+
