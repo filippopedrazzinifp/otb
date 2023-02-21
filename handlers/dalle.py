@@ -1,6 +1,6 @@
 from asyncio.log import logger
 
-from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
+from telegram import ReplyKeyboardRemove, Update
 from telegram.ext import (
     CommandHandler,
     ContextTypes,

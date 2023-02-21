@@ -1,4 +1,3 @@
-import emoji
 from telegram import ReplyKeyboardRemove, Update
 from telegram.ext import ContextTypes, ConversationHandler
 
