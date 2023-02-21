@@ -19,14 +19,18 @@ docker-compose up --build -d
 ```
 ## Commands Available
 
-```
+```bash
 /start
 /help
+/dalle 
+/davinci
 ```
 
 ## Demo
 
-You can check how the bot works here
+You can check how the bot works here:
+
+
 
 ## License
 
